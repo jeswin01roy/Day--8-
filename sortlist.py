@@ -1,7 +1,8 @@
 a=[11,12,-10,15,17,200,13]
-print(sorted(a))
+print(sorted(a))  #using in-built function
 
 # or
+
 l=len(a)
 temp=0
 for i in range(0,l,1):
